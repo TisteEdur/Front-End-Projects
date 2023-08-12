@@ -1,0 +1,5 @@
+.WeekForecast {
+    flex: 0 0 35%;
+    min-height: 670px;
+    background: red;
+}

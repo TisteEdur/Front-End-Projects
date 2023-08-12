@@ -1,0 +1,5 @@
+.CurrentForecast {
+    flex: 0 0 65%;
+    min-height: 670px;
+    background: aquamarine;
+}
